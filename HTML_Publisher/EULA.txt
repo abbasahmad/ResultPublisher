@@ -1,0 +1,88 @@
+Smartesting CertifyIt
+
+SOFTWARE USER LICENSE
+Smartesting CertifyIt™
+© 2015, Smartesting®
+
+By installing this software the user consents to be legally bound by the terms and conditions of the present contract.
+
+Following the receipt of a TECHNICAL AND FINANCIAL PROPOSAL related to Smartesting CertifyIt™, the USER has duly decided to purchase or rent a user license of the SOFTWARE
+
+
+DEFINITIONS:
+
+SOFTWARE: Smartesting CertifyIt™ as specified in the TECHNICAL AND FINANCIAL PROPOSAL.
+
+TECHNICAL AND FINANCIAL PROPOSAL: the document defining the General Conditions of Sale or Rental of the SOFTWARE. The proposal constitutes an integral part of the LICENSE.
+
+DOCUMENTATION: the SOFTWARE manuals and user guides.
+
+LICENSOR: Smartesting, owner of all rights to the SOFTWARE.
+
+USER: the user of the SOFTWARE who has duly accepted the TECHNICAL AND FINANCIAL PROPOSAL, and is beneficiary of the LICENSE.
+
+LICENSE: the contract governing the conditions of use for the SOFTWARE. It includes the TECHNICAL AND FINANCIAL PROPOSAL and is binding the USER upon installation of the SOFTWARE.
+
+COMPILED CODE: binary files resulting from the compilation of the source code.
+
+SOURCE CODE: all the instructions and lines of code constituting the SOFTWARE, the access to which being required with a view to modifying the SOFTWARE.
+
+
+ARTICLE 1 – Installing the SOFTWARE
+
+The LICENSOR will provide the user with a temporary access code enabling installation and use of the SOFTWARE. A permanent access code will be provided to the USER upon full payment of the price agreed upon in the TECHNICAL AND FINANCIAL PROPOSAL. In case of a rental agreement, an access code, valid until the term of the rental contract, will be provided to the USER upon payment of the first installment agreed upon in the TECHNICAL AND FINANCIAL PROPOSAL.
+
+Installation of the SOFTWARE by the USER indicates that the latter fully consents to be bound by the conditions of the LICENSE.
+
+
+ARTICLE 2 – Object
+
+The LICENSOR hereby grants the USER, and the USER hereby accepts from the LICENSOR, a personal, non-transferable and non-exclusive right to use the SOFTWARE and the DOCUMENTATION in its COMPILED CODE format only, for a user configuration as per the terms and conditions defined in the TECHNICAL AND FINANCIAL PROPOSAL.
+In this respect, the following user configurations have been defined:
+SINGLE USER LICENSE: The SOFTWARE is installed on one computer or workstation , to be used by only one user.
+MULTIPLE USER LICENSE: The SOFTWARE is installed on several computers or workstations operating via a network server. The number of users cannot exceed the limit defined in the TECHNICAL AND FINANCIAL PROPOSAL.
+ACADEMIC LICENSE: This is a license reserved to a USER an academic, teaching or research areas. This LICENSE is solely for use as a teaching or research tool within a site delivering higher education with no commercial objective. In case the SOFTWARE is used for any other purpose, and in particular, as part of a research contract funded by a company, the USER must inform the LICENSOR within thirty (30) days following the signature of such a contract. The ACADEMIC LICENSE will subsequently be amended, to correspond to the appropriate configuration and the corresponding LICENSE price will be paid by the USER to the LICENSOR.
+SITE LICENSE: The SOFTWARE can be used at a given site. This type of license is limited to multiple and academic users.
+EVALUATION LICENSE: The SOFTWARE can be used only for demonstration, testing and evaluation purposes, without any commercial objective, for a limited period of thirty (30) days starting on the date of the first usage.
+
+
+ARTICLE 3 – Intellectual property
+
+The LICENSE does not confer to the USER any right in term of Intellectual Property right on the SOFTWARE, which remains the full and exclusive property of the LICENSOR.
+The USER undertakes to:
+ - use the SOFTWARE in accordance with the instructions given in the DOCUMENTATION, including those related to the hardware configuration.
+ - use the SOFTWARE in compliance with the type of LICENSE defined in the TECHNICAL AND FINANCIAL PROPOSAL
+ - limit the number of copies made of the SOFTWARE to a single backup copy, kept solely for the purpose of ensuring the continuous use of the SOFTWARE
+ - only use the DOCUMENTATION in the context of the use of the SOFTWARE
+ - remain within the framework of the Smartesting interface and of the SOFTWARE functions (Open Application Program Interface) in the event the SOFTWARE is being used along with other applications, or with the objective of increasing its functionality.
+
+The USER will refrain from permanently or temporarily duplicating the SOFTWARE in part or in full by any means and in any format, with the understanding that downloading, displaying, executing, transmitting or storing the SOFTWARE under any format enabling its duplication is subject to the express, prior consent of the LICENSOR.
+The USER hereby consents not to translate, adapt, arrange, decompile or modify the SOFTWARE.
+The USER hereby consents not to make the SOFTWARE available for sale or rent.
+The LICENSOR reserves the right to correct any errors in the SOFTWARE.
+
+
+ARTICLE 4 – Assistance – Technical Support
+
+The USER will have access to a service of technical assistance as per the conditions defined in the TECHNICAL AND FINANCIAL PROPOSAL, in accordance with the selected options.
+
+
+ARTICLE 5 – Warranties – Responsibility
+
+The LICENSOR represents that it makes its best efforts to ensure that the SOFTWARE is reliable and performs substantially the tasks, as described in the TECHNICAL AND FINANCIAL PROPOSAL. The LICENSOR may not, however, be held responsible beyond an obligation of means and does not offer any warranty of result.
+Under no circumstances will LICENSOR be liable for any consequential, indirect, special, punitive or incidental damages or loss of profits (including, but not limited to, claims for loss of data, goodwill, use of money or use of the products, interruption in use or availability of data, stoppage of other work, or impairment of other assets) arising out from the use of the SOFTWARE.
+
+
+ARTICLE 6 – Duration
+
+The USER is bound by the terms and conditions of the LICENSE, as long as he is using the SOFTWARE. Upon expiration of the LICENSE, or if the USER stops using the SOFTWARE, for any reason, he undertakes to destroy the SOFTWARE, the DOCUMENTATION and the potential backup copy; he undertakes to perform the same thing in case he would dispose of the computers on which the SOFTWARE is installed.
+
+
+ARTICLE 7 – Transfer of the contract
+
+The LICENSOR reserves the right, in the context of a rental agreement, to transfer the LICENSE to a third party lease company, in order to reassign the financial flows arising from it.
+
+
+ARTICLE 8 – Applicable law – Competent jurisdiction
+
+The LICENSE is subject to French law. In the event of translation, the French version will prevail. In the event of dispute related to the execution or interpretation of the LICENSE, the LICENSOR and USER undertake to try to find an amicable solution. In case of a deadlock situation, the dispute would be submitted to the appropriate jurisdiction in Paris (France).
